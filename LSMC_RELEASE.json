@@ -1,0 +1,17 @@
+{
+  "release": "2.0.4",
+  "distribution": "lsmc-bio/VerifyBamID",
+  "upstream_repository": "Griffan/VerifyBamID",
+  "upstream_pull_request": 99,
+  "upstream_pull_request_url": "https://github.com/Griffan/VerifyBamID/pull/99",
+  "upstream_source_repository": "tfenne/VerifyBamID",
+  "upstream_source_commit": "c2b66f6f6ea85e7d88ea407c16c29bf46749d0fd",
+  "upstream_base_commit": "6db5eabdf85e286829d626b1c4b4edb96917d572",
+  "upstream_status_at_import": "open_unmerged",
+  "minimum_htslib": "1.25",
+  "selected_htslib": "1.25",
+  "executable": "bin/VerifyBamID",
+  "scientific_changes_beyond_upstream_source": false,
+  "scientific_acceptance": "NOT_ASSESSED",
+  "tracking_issue": "https://linear.app/lsmc/issue/BFX-866"
+}
